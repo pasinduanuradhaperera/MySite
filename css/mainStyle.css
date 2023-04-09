@@ -34,3 +34,11 @@ body{
 .start{
     margin-top: 15%;
 }
+.banner .start{
+    text-align: center;
+}
+.banner .start h1{
+    text-align: center;
+    font-size: xx-large;
+    border: solid 4px #aaa;
+}
