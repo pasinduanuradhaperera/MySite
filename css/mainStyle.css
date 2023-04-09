@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding:0;
+    background-color: #fff;
+    font-family: 'Raleway',sans-serif;
+    color: #fff;
+}
+
+.banner{
+    height: 100vh;
+    width:100%; 
+    background:url("../images/overlay.png"),url('../images/mountain.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner .navbar{
+    margin-top: 4%;
+}
+.banner .navbar-brand{
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 550;
+    margin-left: 6%;
+}
+.banner .nav {
+    margin-right:6%;
+}
+.banner .nav li a{
+    color: #aaa;
+    font-size: 1.4rem;
+}
+.start{
+    margin-top: 15%;
+}
