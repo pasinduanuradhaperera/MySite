@@ -7,6 +7,7 @@ body{
 }
 
 .banner{
+    padding:0;
     height: 100vh;
     width:100%; 
     background:url("../images/overlay.png"),url('../images/mountain.jpg');
@@ -48,4 +49,10 @@ body{
     text-align: center;
     font-size: 2.05rem;
     border: solid 4px #fff;
+}
+footer{
+    
+    height:30px;
+    width:100%;
+    background:#999;
 }
